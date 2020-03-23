@@ -1,1 +1,6 @@
-
+import matplotlib.pyplot as plt
+import osmnx as ox
+import pandas as pd
+%matplotlib inline
+ox.config(log_console=True, use_cache=True)
+ox.__version__
