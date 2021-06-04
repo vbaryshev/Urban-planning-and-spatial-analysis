@@ -1,3 +1,3 @@
 # Urban-planning-and-spatial-analysis
 Градостроительство и пространственный анализ
-# http://slavabaryshev.com/
+https://autogis-site.readthedocs.io/en/latest/index.html
